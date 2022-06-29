@@ -14,8 +14,8 @@
         <div class="col-lg-4 text-end">
           <div class="fw-bold mb-1">Membros do grupo:</div>
           <div>Eduardo dos Santos Pires</div>
-          <div>Marcos</div>
-          <div>Vinícius</div>
+          <div>Marcos Antônio da Costa Filho</div>
+          <div>Vinicius Oliveira Silva</div>
         </div>
       </div>
     </div>
