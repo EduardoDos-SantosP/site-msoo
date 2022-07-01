@@ -1,7 +1,7 @@
 <template>
   <header
       id="Header"
-      class="container-fluid h-auto py-2 bg-gradient border-bottom shadow-sm"
+      class="container-fluid h-auto py-2 bg-gradient border-bottom shadow"
   >
     <div class="row h-100 align-items-center">
       <h1 class="text-center fs-2 m-0">Projeto de MSOO</h1>

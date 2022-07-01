@@ -29,7 +29,8 @@ export default {
     return {
       diagrams: [
         { label: 'Diagrama de classes', img: 'classes.png' },
-        { label: 'Diagrama de casos de uso', img: 'use-cases.png' }
+        { label: 'Diagrama de casos de uso', img: 'use-cases.png' },
+        { label: 'Diagrama de atividades', img: 'activities.png' }
       ]
     }
   },
@@ -59,6 +60,6 @@ export default {
   background-color: var(--bs-gray-800);
 }
 .diagram-img {
-  max-width: calc(100vw - 108px);
+  max-width: 99%;
 }
 </style>
